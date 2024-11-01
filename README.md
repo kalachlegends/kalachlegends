@@ -1,5 +1,5 @@
 
-h3 align="center">A passionate fullstack Developer on Elixir language</h3>
+<h3 align="center">A passionate fullstack Developer on Elixir language</h3>
 
 - 🔭 I’m currently working on [Novella Designer](https://novella-designer.com/)
 
