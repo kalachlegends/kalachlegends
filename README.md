@@ -7,4 +7,4 @@
 <h3 align="center">My libraries</h3>
 
 - 📜 [FastPostmanCollection](https://github.com/kalachlegends/fast_postman_collection) This library helps you generate a Postman collection from your Phoenix router (`MyApp.Router`). `elixir lang`
-- ⛏️ [EctoForge](https://github.com/kalachlegends/ecto_forge)Creating CRUD operations using EctoSchema with hooks. `elixir lang`
+- ⛏️ [EctoForge](https://github.com/kalachlegends/ecto_forge) Creating CRUD operations using EctoSchema with hooks. `elixir lang`
